@@ -1,4 +1,27 @@
-# test
+<h1 align="center">
+    <a href="https://github.com/BoarBotDevs/BoarBotJE"><img src="https://github.com/WeslayCodes/BoarBot/assets/60010287/ec7b2217-486c-44e5-b6a1-8814bcef9822" alt="BoarBot - Discord Bot"></a>
+    <br><br>
+    BoarBot - Discord Bot
+    <br>
+</h1>
+<h4 align="center">Gacha, Powerups, Quests, and Economy</h4>
+
+<p align="center">
+    <a href="https://discord.gg/DXSwKHYrCa">
+        <img src="https://discord.com/api/guilds/1123708960319475803/widget.png" alt="Discord Server">
+    </a>
+    <a href="https://github.com/discord-jda/JDA">
+        <img src="https://img.shields.io/badge/discord-jda-purple.svg" alt="discord.js">
+    </a>
+    <a href="https://maven.apache.org/">
+        <img src="https://img.shields.io/badge/apache-maven-orange.svg" alt="node.js">
+    </a>
+    <a href="https://github.com/BoarBotDevs/BoarBotJE">
+        <img src="https://img.shields.io/github/last-commit/BoarBotDevs/BoarBotJE/main?logo=github&label=last%20release" alt="Last Release Date">
+    </a>
+</p>
+
+
 Commands
 
 Discord's command system is the main way that users can interact with the bot.
