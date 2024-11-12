@@ -1,7 +1,7 @@
 # test
 Commands
 
-	Discord's command system is the main way that users can interact with the bot.
+Discord's command system is the main way that users can interact with the bot.
 
 	Boar Daily
 		Gives the player their boar for the day. Some are rarer than others, and if you're lucky, you may even get multiple boars in one day.
