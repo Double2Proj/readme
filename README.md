@@ -57,6 +57,9 @@ Shows the weekly quests and the rewards for those quests.
 ### Badges
 Displays a players badges and the details about those badges.
 
+### Advent
+During December, you claim daily rewards on the Advent Calander.
+
 # Features
 BoarBot has many other features besides simply claiming a boar every day. You can read a bit more about them here.
 
