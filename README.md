@@ -69,7 +69,7 @@ An event that happens in all servers that occurs roughly once every 2 hours that
 ### Blessings
 This stat determines how likely you are to get rarer boars and more boars when a player collects their daily boar(s). You can read more about the sources for these in using the /boar help command in the bot. The formula is for the chances to get different boars is quite complex, however you can view it here: <a href="https://www.desmos.com/calculator/74inrkixxa">here</a>
 
-### Powerups
+## Powerups
 Powerups are the main ways that a player can influence what boars they have and what boars they get. They are mainly obtained from powerup events and the weekly quests.
 
 ### Charms
