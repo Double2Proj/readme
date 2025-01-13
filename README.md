@@ -26,6 +26,8 @@ Discord's command system is the main way that users can interact with the bot. F
 
 ### Boar Daily
 Gives the player their boar for the day. Some are rarer than others, and if you're lucky, you may even get multiple boars at once!
+
+<img src="https://github.com/user-attachments/assets/21a7ef07-e051-4f9b-bfc8-a67cea0e686e" alt="daily">
 	
 ### Market
 Allows the user to buy and sell both boars and powerups.
@@ -34,6 +36,8 @@ Allows the user to buy and sell both boars and powerups.
   
 ### Leaderboard
 Shows how good players are compared to others on many different categories. 
+
+<img src="https://github.com/user-attachments/assets/631e245a-a76f-4807-a694-da00969ba4a1" alt="leaderboard">
 
 ## The Megamenu
 The hub for everything about a profile. All pages of the megamenu can be accessed from each other using the drop-down menu.
@@ -100,6 +104,8 @@ These massively boost your blessings, but are temporary and will disappear after
 ### Clones
 Clones will allow a player to duplicate a boar they already have. The rarer the boar, the more clones it takes!
 
+<img src="https://github.com/user-attachments/assets/ae8f5483-de55-482e-93c3-30c3dbe50d4b" alt="clones">
+
 ### Gifts
 Gifts can be sent in a server and are opened by a player in that server. The fastest player to open the gift wins! There are some measures in place to help players with higher ping, however these gifts may favor players with certain pings. They can be sent either in the powerups menu, or by using the /boar gift command. You can get powerups, boars and boar bucks from these gifts. If you're lucky, you may even get a special item...
 
@@ -118,24 +124,38 @@ Along with the main commands listed above, BoarBot has a few more minor commands
 
 ### Help
 Details all the different features in Boarbot. If you're looking for more information, this is the place to go!
-  
+
+<img src="https://github.com/user-attachments/assets/e3eb0af2-9e7b-4ef3-88ac-e062bb25f581" alt="help">
+
 ### Boar-manage setup
 Using this command allows a server admin to set up BoarBot to allows it's usage in the server.
+
+<img src="https://github.com/user-attachments/assets/d32924d6-9a5b-4c10-8d7b-c8e731e9c316" alt="manage">
 
 ### Gift
 A faster alternative to sending a gift in the powerup menu.
 
+<img src="https://github.com/user-attachments/assets/149cea94-e62e-4481-bf36-c7d3318939e8" alt="gift command">
+
 ### Guess
 This is where the answers to hunts are inputted.
 
+<img src="https://github.com/user-attachments/assets/3d4d67c8-13a2-49a1-9df7-b42c413a23e2" alt="guess">
+
 ### Report
 Used to report bugs you may find in BoarBot. 
-  
+
+<img src="https://github.com/user-attachments/assets/2514d2f5-a7d4-44a7-a58a-2faa5837e966" alt="report">
+
 ### Support
 Links to the BoarBot patreon. Subscribing to the Patreon does not give any useable in game rewards, and only gives a badge. BoarBot will never be pay to win.
 
+<img src="https://github.com/user-attachments/assets/94aeef9f-322f-43c8-b51a-7077e6e08710" alt="support">
+
 ### Self-Wipe
 Can be used to completely delete your data from BoarBot. Your User ID may still be stored if you have violated the community guidelines. This is done to prevent players from continuing to abuse community features by deleting their data.
+
+<img src="https://github.com/user-attachments/assets/d4a16284-c0ca-4344-8a3b-9354b32f6064" alt="self wipe">
 
 ## Hmm, what this...?
 BoarBot contains many different super rare boars and badges that can be obtained in a number of seperate ways. Can you collect them?
